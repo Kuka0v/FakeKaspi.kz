@@ -1,0 +1,14 @@
+[
+  {
+    "number": "+77777777777",
+    "password": "your_password_1",
+    "name": "Иван Иванов",
+    "money": "123 345"
+  },
+  {
+    "number": "+77001234567",
+    "password": "your_password_2",
+    "name": "Алиса Петрова",
+    "money": "543 210"
+  }
+]
