@@ -1,14 +1,16 @@
 [
   {
     "number": "+77777777777",
+    "pincode": "0000",
     "password": "your_password_1",
     "name": "Иван Иванов",
-    "money": "123 345"
+    "money": "123345"
   },
   {
-    "number": "+77001234567",
+    "number": "+79999999999",
+    "pincode": "1234",
     "password": "your_password_2",
-    "name": "Алиса Петрова",
-    "money": "543 210"
+    "name": "Анна Петрова",
+    "money": "543210"
   }
 ]
